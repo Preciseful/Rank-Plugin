@@ -1,0 +1,11 @@
+main: developful.plugin.Devplug
+name: DevPlug
+version: 1.0
+author: Developful
+api-version: 1.19
+
+commands:
+  setperm:
+    description: Get items
+    usage: /setperm <player> <rank>
+    permission: r.setperm

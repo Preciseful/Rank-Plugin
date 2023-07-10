@@ -1,0 +1,20 @@
+ranks:
+  - name: Player
+    rankColor: GRAY
+    nameColor: WHITE
+    chatColor: WHITE
+    symbolColor: WHITE
+
+  - name: Mod
+    rankColor: YELLOW
+    nameColor: WHITE
+    chatColor: WHITE
+    symbolColor: WHITE
+
+  - name: Owner
+    rankColor: DARK_AQUA
+    nameColor: DARK_AQUA
+    chatColor: WHITE
+    symbolColor: WHITE
+    permissions:
+      - r.setperm
